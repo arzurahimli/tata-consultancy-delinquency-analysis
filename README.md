@@ -121,4 +121,3 @@ This project was completed as part of the **Tata iQ Data Analytics Virtual Exper
 
 ---
 
-*This project is for educational and portfolio purposes as part of a Tata iQ virtual simulation.*
